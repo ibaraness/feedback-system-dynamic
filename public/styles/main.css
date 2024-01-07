@@ -1,0 +1,12 @@
+.form-group.has-error input {
+    border-color: rgb(220,53,69);
+    color: rgb(220,53,69);
+}
+
+.form-group.has-error label {
+    color: rgb(220,53,69)
+}
+
+.form-group.has-error .error-message {
+    color: rgb(220,53,69)
+}
