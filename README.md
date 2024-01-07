@@ -7,3 +7,6 @@ The backend uses express as the server framework.
 # Frontend #
 For the frontend, we are using EJS HTML templates which express supports. We are using a bit of bootstrap for style. The frontend coding is done with Vanilla Javascript,
 no frameworks were used. we are using Validate.js library to validate forms in the frontend.
+
+# Database #
+In this example we are using sqlite as the Database and Sequilize as the ORM
